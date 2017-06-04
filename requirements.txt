@@ -1,0 +1,19 @@
+# Python wrapper of OpenCV: Open Source Computer Vision Library
+# https://pypi.python.org/pypi/opencv-python
+opencv-python==3.2.0.6
+
+# the modular source code checker: pep8, pyflakes and co
+# https://pypi.python.org/pypi/flake8/2.5.4
+flake8==2.5.4
+
+# pytest: simple powerful testing with Python
+# https://pypi.python.org/pypi/pytest/2.8.3
+pytest==2.8.3
+
+# Code coverage measurement for Python
+# https://pypi.python.org/pypi/coverage
+coverage==4.2
+
+# Pytest plugin for measuring coverage.
+# https://pypi.python.org/pypi/pytest-cov/2.2.0
+pytest-cov==2.2.0
